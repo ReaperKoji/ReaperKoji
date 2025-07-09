@@ -15,11 +15,9 @@
 <div align="center" style="border: 2px solid #39ff14; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px #39ff14;">
   <h2 style="color:#39ff14; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 12px #39ff14;">🚀 Current Projects</h2>
   <p style="color:#00ffff; font-family: 'Courier New', Courier, monospace;">
-    - <code>PROCESSING</code><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="150" alt="processing gif" /><br>
-    - <code>PROCESSING</code><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="150" alt="processing gif" /><br>
-    - <code>PROCESSING</code><br>
+    - <code>🧠 LFI-Buster</code><br>
+    - <code>🌲 Amazônia Watcher</code><br>
+    - <code>🔍 ReconOps</code><br><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="150" alt="processing gif" />
   </p>
 </div>
@@ -46,6 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ReaperKoji&show_icons=true&theme=radical&title_color=39ff14&icon_color=00ffff&text_color=cccccc" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperKoji&layout=compact&theme=radical" />
+</p>
+
 <br>
 
 <h1 align="center" style="color:#39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14;">
@@ -68,8 +70,7 @@
   🛡️ Email: <a href="mailto:g3ars23@gmail.com" style="color:#39ff14;">g3ars23@gmail.com</a>
 </p>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+- 💬 Ask me about: CTFs, Web Exploits, LFI, Linux, AI for Security  
+- ⚡ Fun fact: I once pwned a box using only curl and echo 😎
