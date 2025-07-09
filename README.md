@@ -16,7 +16,7 @@
   <h2 style="color:#39ff14; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 12px #39ff14;">🚀 Current Projects</h2>
   <p style="color:#00ffff; font-family: 'Courier New', Courier, monospace;">
     - <code>🧠 LFI-Buster</code><br>
-    - <code>🌲 Amazônia Watcher</code><br>
+    - <code>PROCESSING</code><br>
     - <code>🔍 ReconOps</code><br><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="150" alt="processing gif" />
   </p>
