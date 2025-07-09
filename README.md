@@ -50,7 +50,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="neon hacker gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ0M3R0cXFyMjA0eGtsY3FpMGZzYnhkbmo1Znd2cjM1cjJucWpmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="200" alt="neon hacker gif"/>
 </p>
 
 <p align="center" style="color:#00ffff; font-weight:bold; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 8px #00ffff;">
