@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" alt="Your Image Badge" width="150" style="border:none; display:block; margin: 0 auto 20px auto;" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" alt="Your Image Badge" width="250" style="border:none; display:block; margin: 0 auto 20px auto;" />
 
 <h1 align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
   Yo, I’m ReaperKoji 🕶️💀
