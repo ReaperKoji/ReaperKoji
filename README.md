@@ -15,9 +15,9 @@
 <div align="center" style="border: 2px solid #39ff14; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px #39ff14;">
   <h2 style="color:#39ff14; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 12px #39ff14;">🚀 Current Projects</h2>
   <p style="color:#00ffff; font-family: 'Courier New', Courier, monospace;">
-    - <code>EM BREVE</code><br>
-    - <code>EM BREVE</code><br>
-    - <code>EM BREVE</code>
+    - <code>PROCESSING</code><br>
+    - <code>PROCESSING</code><br>
+    - <code>PROCESSING</code>
   </p>
 </div>
 
