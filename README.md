@@ -62,7 +62,7 @@
 <p align="center" style="color:#39ff14; font-family: 'Courier New', Courier, monospace;">
   ⚡ Let's connect!  
   🦾 Twitter: <a href="https://twitter.com/ReaperKoji" style="color:#39ff14;">@ReaperKoji</a> |  
-  🛡️ Email: <a href="mailto:reaperkoji@email.com" style="color:#39ff14;">reaperkoji@email.com</a>
+  🛡️ Email: <a href="mailto:g3ars23@gmail.com" style="color:#39ff14;">g3ars23@gmail.com</a>
 </p>
 
 - 🤔 I’m looking for help with ...
