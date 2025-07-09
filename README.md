@@ -35,7 +35,9 @@
 ---
 
 <p align="center" style="font-family: 'Courier New', monospace; color:#ff00ff; font-weight:bold;">
-  🌐 Blog CTFs: <a href="https://github.com/ReaperKoji/blog-ctf" style="color:#ff00ff;">Koji CTF Blog</a>
+  🌐 Blog CTFs:  
+  <a href="https://reaperkoji.github.io/" style="color:#ff00ff;">Acesse meu blog de CTFs</a>  
+  para análises, write-ups e tutoriais direto do submundo hacker 🕶️💀
 </p>
 
 <p align="center">
