@@ -46,7 +46,7 @@
 <br>
 
 <h1 align="center" style="color:#39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14;">
-  ReaperKoji - Neon Hacker
+  ReaperKoji
 </h1>
 
 <p align="center">
