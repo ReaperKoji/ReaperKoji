@@ -13,23 +13,19 @@
 ---
 
 <div align="center" style="border: 2px dashed #39ff14; padding: 20px; border-radius: 15px; max-width: 500px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
-  
   <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 CURRENT OPS [TERMINAL LIVE]</h2>
-  
   <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:14px;">
 > initializing LFI-Buster... [OK ✅]
 > running PROCESSING module... [CPU 98% 🔥]
 > ReconOps active... scanning networks 🌐
+> fetching exploits database... [DONE]
 > output -> /home/reaperkoji/logs/ops.log
   </pre>
-
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="180" alt="processing gif" style="border-radius: 12px; margin-top:10px;" />
 </div>
 
 <div align="center" style="border: 2px dashed #00ffff; padding: 20px; border-radius: 15px; max-width: 500px; margin: 20px auto; background-color: rgba(0,0,0,0.4);">
-  
   <h2 style="color:#00ffff; font-family: 'Courier New', monospace;">💻 TECH STACK & LEARNING</h2>
-  
   <pre style="text-align:left; color:#39ff14; font-family: 'Courier New', monospace; font-size:14px;">
 main:     Python 🐍 | Bash 🐚 | Linux 🖥️ | Web Exploits 💀
 learning: Rust 🦀 | AI for Cybersec 🤖
@@ -77,8 +73,19 @@ learning: Rust 🦀 | AI for Cybersec 🤖
 ---
 
 <pre style="color:#ff00ff; font-family: 'Courier New', monospace; font-size:12px;">
-> FUN FACT: Pwned a box using only curl + echo 😎
-> STATUS: ALWAYS HACKING ⚡
-> REMEMBER: THE DARK NET IS WATCHING 🕶️💀
+> SYSTEM STATUS: CATACLISM HACKER LEVEL ⚡
+> LAST EXPLOIT: Box pwned with curl + echo 😎
+> MATRIX MODE: ACTIVE 🌐
+> WATCH OUT: THE DARK NET IS EYES 👀💀
+> REMOTE OPS: /home/reaperkoji/ops
+> EXECUTING: stealth recon & lfi bypass 🚀
 </pre>
 
+<pre style="color:#39ff14; font-family: 'Courier New', monospace; font-size:12px;">
+████████████████████████████████████████████
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░░  █▀▀█ █▀█ █▄█ ReaperKoji █▀█ █▀█ █░░█
+█░░  █▀▀█ █▀▀ █░█ Cybersecurity | CTF █░░█
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+████████████████████████████████████████████
+</pre>
