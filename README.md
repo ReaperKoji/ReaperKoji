@@ -1,10 +1,10 @@
-## ██████ SYSTEM ONLINE ██████ 👾
+## SYSTEM ONLINE 👾
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" alt="Badge" width="250" style="border:none; display:block; margin: 0 auto 20px auto;" />
 
-<p align="center" style="font-family: 'Courier New', monospace; color:#39ff14; font-weight:bold; font-size:18px;">
-  █▀█ █▀█ █▄█ Yo, I’m <span style="color:#ff00ff;">ReaperKoji</span> 🕶️💀
-</p>
+<h1 align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
+  Yo, I’m <span style="color:#ff00ff;">ReaperKoji</span> 🕶️💀
+</h1>
 
 <p align="center" style="color:#00ffff; font-family: 'Courier New', monospace; font-weight:bold;">
   🐚 Hacking from the shadows | Bug Reaper | CTF Overlord
@@ -13,13 +13,13 @@
 ---
 
 <div align="center" style="border: 2px dashed #39ff14; padding: 20px; border-radius: 15px; max-width: 520px; margin: 20px auto; background-color: rgba(0,0,0,0.6);">
-  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 CATACLISM OPS [TERMINAL LIVE]</h2>
+  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 Active Ops</h2>
   <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:14px;">
-> boot sequence initialized... [OK ✅]
+> boot sequence initialized... ✅
 > loading modules... LFI-Buster | PROCESSING | ReconOps
-> network scan active... [NETWORKS FOUND 🌐]
-> fetching exploits DB... [SUCCESS 💾]
-> executing payload: curl + echo [PWNED 😎]
+> network scan active... 🌐
+> fetching exploits DB... 💾
+> executing payload: curl + echo 😎
 > MATRIX MODE ACTIVE 🌌
 > SYSTEM STATUS: OVERPOWER DESTROYER ⚡
   </pre>
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center" style="border: 2px dashed #00ffff; padding: 20px; border-radius: 15px; max-width: 520px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
-  <h2 style="color:#00ffff; font-family: 'Courier New', monospace;">💻 TECH STACK & LEARNING</h2>
+  <h2 style="color:#00ffff; font-family: 'Courier New', monospace;">💻 Tech Stack & Learning</h2>
   <pre style="text-align:left; color:#39ff14; font-family: 'Courier New', monospace; font-size:14px;">
 MAIN:     Python 🐍 | Bash 🐚 | Linux 🖥️ | Web Exploits 💀
 ADVANCE:  Rust 🦀 | AI for Cybersec 🤖 | Kernel Hacking 🛠️
@@ -54,7 +54,7 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 ---
 
 <h1 align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
-  █▀█ █▀█ █▄█ ReaperKoji
+  ReaperKoji
 </h1>
 
 <p align="center">
@@ -83,13 +83,4 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 > REMOTE OPS LOGS: /home/reaperkoji/ops
 > EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
 > WARNING: DARK NET WATCHING YOUR MOVE
-</pre>
-
-<pre style="color:#39ff14; font-family: 'Courier New', monospace; font-size:12px;">
-█████████████████████████████████████████████████████████
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█░░  █▀▀█ █▀█ █▄█ REAPERKOJI █▀█ █▀█ █▀▀█ █▄█ █▀▀█ █░░█
-█░░  █▀▀█ █▀▀ █░█ CTF OVERLORD | CYBERSEC 🖥️💀 █▀▀█ █░░█
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█████████████████████████████████████████████████████████
 </pre>
