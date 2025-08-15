@@ -1,9 +1,9 @@
-## Hi there 👋
+## SYSTEM ONLINE 👾
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" alt="Your Image Badge" width="250" style="border:none; display:block; margin: 0 auto 20px auto;" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" alt="Badge" width="250" style="border:none; display:block; margin: 0 auto 20px auto;" />
 
 <h1 align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
-  Yo, I’m ReaperKoji 🕶️💀
+  █▀█ █▀█ █▄█ Yo, I’m ReaperKoji 🕶️💀
 </h1>
 
 <p align="center" style="color:#00ffff; font-weight:bold; font-family: 'Courier New', monospace;">
@@ -12,9 +12,9 @@
 
 ---
 
-<div align="center" style="border: 2px solid #39ff14; padding: 15px; border-radius: 12px; max-width: 400px; margin: 20px auto;">
+<div align="center" style="border: 2px dashed #39ff14; padding: 15px; border-radius: 12px; max-width: 450px; margin: 20px auto; background-color: rgba(0,0,0,0.4);">
   
-  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 Current Projects</h2>
+  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 Current Ops</h2>
   
   - 🧠 <code>LFI-Buster</code>  
   - 🔄 <code>PROCESSING</code>  
@@ -24,20 +24,20 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="150" alt="processing gif" style="border-radius: 10px;" />
 </div>
 
-<div align="center" style="border: 2px solid #00ffff; padding: 15px; border-radius: 12px; max-width: 400px; margin: 20px auto;">
+<div align="center" style="border: 2px dashed #00ffff; padding: 15px; border-radius: 12px; max-width: 450px; margin: 20px auto; background-color: rgba(0,0,0,0.3);">
   
   <h2 style="color:#00ffff; font-family: 'Courier New', monospace;">💻 Tech Stack & Learning</h2>
   
-  - Main techs: <code>Python</code>, <code>Bash</code>, <code>Web Exploitation</code>, <code>Linux</code>  
-  - Learning: <code>Rust</code>, <code>Machine Learning for Cybersec</code>
+  - Main: <code>Python</code>, <code>Bash</code>, <code>Linux</code>, <code>Web Exploits</code>  
+  - Learning: <code>Rust</code>, <code>AI for Cybersec</code>
 </div>
 
 ---
 
 <p align="center" style="font-family: 'Courier New', monospace; color:#ff00ff; font-weight:bold;">
   🌐 Blog CTFs:  
-  <a href="https://reaperkoji.github.io/" style="color:#ff00ff;">Acesse meu blog de CTFs</a>  
-  para análises, write-ups e tutoriais direto do submundo hacker 🕶️💀
+  <a href="https://reaperkoji.github.io/" style="color:#ff00ff;">reaperkoji.github.io</a>  
+  - Write-ups, exploits & underground hacks 🕶️💀
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 ---
 
 <h1 align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
-  ReaperKoji
+  █▀█ █▀█ █▄█ ReaperKoji
 </h1>
 
 <p align="center">
@@ -65,12 +65,13 @@
 ---
 
 <p align="center" style="color:#39ff14; font-family: 'Courier New', monospace;">
-  ⚡ Let's connect!  
-  🦾 Twitter: <a href="https://twitter.com/ReaperKoji" style="color:#39ff14;">@ReaperKoji</a> |  
-  🛡️ Email: <a href="mailto:g3ars23@gmail.com" style="color:#39ff14;">reaperkoji@gmail.com</a>
+  ⚡ Connect & Exploit:  
+  🦾 <a href="https://twitter.com/ReaperKoji" style="color:#39ff14;">Twitter</a> |  
+  🛡️ <a href="mailto:g3ars23@gmail.com" style="color:#39ff14;">Email</a>
 </p>
 
 ---
 
 - 💬 Ask me about: CTFs, Web Exploits, LFI, Linux, AI for Security  
-- ⚡ Fun fact: I once pwned a box using only curl and echo 😎
+- ⚡ Fun fact: Pwned a box using only `curl` + `echo` 😎  
+
