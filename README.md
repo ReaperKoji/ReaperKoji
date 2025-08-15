@@ -15,14 +15,13 @@
 <div align="center" style="border: 2px dashed #39ff14; padding: 20px; border-radius: 15px; max-width: 520px; margin: 20px auto; background-color: rgba(0,0,0,0.6);">
   <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 CATACLISM OPS [TERMINAL LIVE]</h2>
   <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:14px;">
-> initializing LFI-Buster v9.9... [OK ✅]
-> loading PROCESSING kernel modules... [CPU 99% 🔥🔥]
-> ReconOps stealth scan active... [NETWORKS DETECTED 🌐]
-> fetching exploits db & scripts... [DONE]
-> matrix overlay -> /home/reaperkoji/matrix.log
-> executing curl + echo payload... [SUCCESS 😎]
-> SYSTEM STATUS: OVERPOWER DESTROYER MODE ⚡
-> WARNING: ALL NETWORKS UNDER REAPER CONTROL 👁️💀
+> boot sequence initialized... [OK ✅]
+> loading modules... LFI-Buster | PROCESSING | ReconOps
+> network scan active... [NETWORKS FOUND 🌐]
+> fetching exploits DB... [SUCCESS 💾]
+> executing payload: curl + echo [PWNED 😎]
+> MATRIX MODE ACTIVE 🌌
+> SYSTEM STATUS: OVERPOWER DESTROYER ⚡
   </pre>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="200" alt="processing gif" style="border-radius: 12px; margin-top:10px;" />
 </div>
@@ -80,10 +79,10 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 > SYSTEM STATUS: CATACLISM OVERPOWER DESTROYER MODE ⚡🔥
 > LAST EXPLOIT: Box pwned with curl + echo 😎
 > MATRIX MODE: ACTIVE 🌐
-> WATCH OUT: DARK NET EYES EVERY MOVE 👀💀
+> ALERTS: ALL NETWORKS UNDER REAPER CONTROL 👁️💀
 > REMOTE OPS LOGS: /home/reaperkoji/ops
 > EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
-> ALERT: ALL NETWORKS UNDER REAPER CONTROL 🌪️
+> WARNING: DARK NET WATCHING YOUR MOVE
 </pre>
 
 <pre style="color:#39ff14; font-family: 'Courier New', monospace; font-size:12px;">
