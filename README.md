@@ -24,6 +24,7 @@
 > SYSTEM STATUS: OVERPOWER DESTROYER ⚡
   </pre>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="200" alt="processing gif" style="border-radius: 12px; margin-top:10px;" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="hacking" style="border-radius: 12px; margin-top:10px;" />
 </div>
 
 <div align="center" style="border: 2px solid #00ffff; padding: 20px; border-radius: 15px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.45);">
@@ -33,6 +34,7 @@ MAIN:     Python 🐍 | Bash 🐚 | Linux 🖥️ | Web Exploits 💀
 ADVANCE:  Rust 🦀 | AI for Cybersec 🤖 | Kernel Hacking 🛠️
 TOOLS:    nmap | curl | metasploit | ghidra | john
   </pre>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="code" style="border-radius: 12px; margin-top:10px;" />
 </div>
 
 ---
@@ -75,4 +77,6 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 > EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
 > WARNING: DARK NET WATCHING YOUR MOVE
   </pre>
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="200" alt="matrix" style="border-radius: 12px; margin-top:10px;" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" alt="hacker fun" style="border-radius: 12px; margin-top:10px;" />
 </div>
