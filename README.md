@@ -42,11 +42,12 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 <div align="center" style="border: 2px solid #ff00ff; padding: 15px; border-radius: 12px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
   <h2 style="color:#ff00ff; font-family: 'Courier New', monospace;">🛠️ Recent Projects & Ops</h2>
   <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:13px;">
-🔹 BlackReaper Recon Tool 2.0  - CTF / Red Team
-🔹 TechMaintainer.ps1           - SysAdmin & Audits
-🔹 AI-Detection Amazon Patrol   - IA aplicada à segurança
-🔹 LFI-Buster                  - Web Exploits
-🔹 ReconOps                    - Stealth Recon Framework
+🔹 BlackReaper Recon Tool 2.0        - CTF / Red Team
+🔹 TechMaintainer.ps1                - SysAdmin & Audits
+🔹 LFI-Buster                        - Web Exploits
+🔹 ReconOps                          - Stealth Recon Framework
+🔹 Face Detector                     - MediaPipe + YOLOv8 + face_recognition
+🔹 Spyware Detector                  - SysScan & Security Alerts
   </pre>
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" alt="fun hacking" style="border-radius: 12px; margin-top:10px;" />
 </div>
