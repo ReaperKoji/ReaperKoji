@@ -7,37 +7,41 @@
 </p>
 
 <p align="center" style="color:#00ffff; font-family: 'Courier New', monospace; font-weight:bold;">
-  🐚 Hacking from the shadows | Bug Reaper | CTF Addict
+  🐚 Hacking from the shadows | Bug Reaper | CTF Overlord
 </p>
 
 ---
 
-<div align="center" style="border: 2px dashed #39ff14; padding: 20px; border-radius: 15px; max-width: 500px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
-  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 CURRENT OPS [TERMINAL LIVE]</h2>
+<div align="center" style="border: 2px dashed #39ff14; padding: 20px; border-radius: 15px; max-width: 520px; margin: 20px auto; background-color: rgba(0,0,0,0.6);">
+  <h2 style="color:#39ff14; font-family: 'Courier New', monospace;">🚀 CATACLISM OPS [TERMINAL LIVE]</h2>
   <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:14px;">
-> initializing LFI-Buster... [OK ✅]
-> running PROCESSING module... [CPU 98% 🔥]
-> ReconOps active... scanning networks 🌐
-> fetching exploits database... [DONE]
-> output -> /home/reaperkoji/logs/ops.log
+> initializing LFI-Buster v9.9... [OK ✅]
+> loading PROCESSING kernel modules... [CPU 99% 🔥🔥]
+> ReconOps stealth scan active... [NETWORKS DETECTED 🌐]
+> fetching exploits db & scripts... [DONE]
+> matrix overlay -> /home/reaperkoji/matrix.log
+> executing curl + echo payload... [SUCCESS 😎]
+> SYSTEM STATUS: OVERPOWER DESTROYER MODE ⚡
+> WARNING: ALL NETWORKS UNDER REAPER CONTROL 👁️💀
   </pre>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="180" alt="processing gif" style="border-radius: 12px; margin-top:10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvbzdiZDc1eW81ZWdzMzdtcjVxb3cyMGY5a3F3OXUzeHIwOG93cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8dUiWJmQi4KCQhS9x/giphy.gif" width="200" alt="processing gif" style="border-radius: 12px; margin-top:10px;" />
 </div>
 
-<div align="center" style="border: 2px dashed #00ffff; padding: 20px; border-radius: 15px; max-width: 500px; margin: 20px auto; background-color: rgba(0,0,0,0.4);">
+<div align="center" style="border: 2px dashed #00ffff; padding: 20px; border-radius: 15px; max-width: 520px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
   <h2 style="color:#00ffff; font-family: 'Courier New', monospace;">💻 TECH STACK & LEARNING</h2>
   <pre style="text-align:left; color:#39ff14; font-family: 'Courier New', monospace; font-size:14px;">
-main:     Python 🐍 | Bash 🐚 | Linux 🖥️ | Web Exploits 💀
-learning: Rust 🦀 | AI for Cybersec 🤖
+MAIN:     Python 🐍 | Bash 🐚 | Linux 🖥️ | Web Exploits 💀
+ADVANCE:  Rust 🦀 | AI for Cybersec 🤖 | Kernel Hacking 🛠️
+TOOLS:    nmap | curl | metasploit | ghidra | john
   </pre>
 </div>
 
 ---
 
 <p align="center" style="color:#ff00ff; font-family: 'Courier New', monospace; font-weight:bold;">
-  🌐 Blog CTFs:  
+  🌐 BLOG CTFs & HACKING OPS:  
   <a href="https://reaperkoji.github.io/" style="color:#ff00ff;">reaperkoji.github.io</a>  
-  - Write-ups, exploits & underground hacks 🕶️💀
+  - Write-ups, exploits, stealth recon & underground hacks 🕶️💀
 </p>
 
 <p align="center">
@@ -55,11 +59,11 @@ learning: Rust 🦀 | AI for Cybersec 🤖
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ0M3R0cXFyMjA0eGtsY3FpMGZzYnhkbmo1Znd2cjM1cjJucWpmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="220" alt="neon hacker gif" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ0M3R0cXFyMjA0eGtsY3FpMGZzYnhkbmo1Znd2cjM1cjJucWpmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="240" alt="neon hacker gif" style="border-radius: 12px;" />
 </p>
 
 <p align="center" style="color:#00ffff; font-weight:bold; font-family: 'Courier New', monospace;">
-  Cybersecurity | Ethical Hacker | CTF Player
+  Cybersecurity | Ethical Hacker | CTF Overlord
 </p>
 
 ---
@@ -73,19 +77,20 @@ learning: Rust 🦀 | AI for Cybersec 🤖
 ---
 
 <pre style="color:#ff00ff; font-family: 'Courier New', monospace; font-size:12px;">
-> SYSTEM STATUS: CATACLISM HACKER LEVEL ⚡
+> SYSTEM STATUS: CATACLISM OVERPOWER DESTROYER MODE ⚡🔥
 > LAST EXPLOIT: Box pwned with curl + echo 😎
 > MATRIX MODE: ACTIVE 🌐
-> WATCH OUT: THE DARK NET IS EYES 👀💀
-> REMOTE OPS: /home/reaperkoji/ops
-> EXECUTING: stealth recon & lfi bypass 🚀
+> WATCH OUT: DARK NET EYES EVERY MOVE 👀💀
+> REMOTE OPS LOGS: /home/reaperkoji/ops
+> EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
+> ALERT: ALL NETWORKS UNDER REAPER CONTROL 🌪️
 </pre>
 
 <pre style="color:#39ff14; font-family: 'Courier New', monospace; font-size:12px;">
-████████████████████████████████████████████
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█░░  █▀▀█ █▀█ █▄█ ReaperKoji █▀█ █▀█ █░░█
-█░░  █▀▀█ █▀▀ █░█ Cybersecurity | CTF █░░█
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-████████████████████████████████████████████
+█████████████████████████████████████████████████████████
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░░  █▀▀█ █▀█ █▄█ REAPERKOJI █▀█ █▀█ █▀▀█ █▄█ █▀▀█ █░░█
+█░░  █▀▀█ █▀▀ █░█ CTF OVERLORD | CYBERSEC 🖥️💀 █▀▀█ █░░█
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█████████████████████████████████████████████████████████
 </pre>
