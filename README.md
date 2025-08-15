@@ -39,6 +39,20 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 
 ---
 
+<div align="center" style="border: 2px solid #ff00ff; padding: 15px; border-radius: 12px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
+  <h2 style="color:#ff00ff; font-family: 'Courier New', monospace;">🛠️ Recent Projects & Ops</h2>
+  <pre style="text-align:left; color:#00ffff; font-family: 'Courier New', monospace; font-size:13px;">
+🔹 BlackReaper Recon Tool 2.0  - CTF / Red Team
+🔹 TechMaintainer.ps1           - SysAdmin & Audits
+🔹 AI-Detection Amazon Patrol   - IA aplicada à segurança
+🔹 LFI-Buster                  - Web Exploits
+🔹 ReconOps                    - Stealth Recon Framework
+  </pre>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" alt="fun hacking" style="border-radius: 12px; margin-top:10px;" />
+</div>
+
+---
+
 <p align="center" style="color:#ff00ff; font-family: 'Courier New', monospace; font-weight:bold;">
   🌐 BLOG CTFs & HACKING OPS:  
   <a href="https://reaperkoji.github.io/" style="color:#ff00ff;">reaperkoji.github.io</a>  
@@ -55,6 +69,22 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 
 ---
 
+<div align="center" style="border: 2px solid #39ff14; padding: 15px; border-radius: 12px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.55);">
+  <pre style="color:#ff00ff; font-family: 'Courier New', monospace; font-size:13px;">
+> SYSTEM STATUS: CATACLISM OVERPOWER DESTROYER MODE ⚡🔥
+> LAST EXPLOIT: Box pwned with curl + echo 😎
+> MATRIX MODE: ACTIVE 🌐
+> ALERTS: ALL NETWORKS UNDER REAPER CONTROL 👁️💀
+> REMOTE OPS LOGS: /home/reaperkoji/ops
+> EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
+> WARNING: DARK NET WATCHING YOUR MOVE
+  </pre>
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="200" alt="matrix" style="border-radius: 12px; margin-top:10px;" />
+  <img src="https://media.giphy.com/media/3orieUV2FG19NwhcY8/giphy.gif" width="200" alt="fun hacker" style="border-radius: 12px; margin-top:10px;" />
+</div>
+
+---
+
 <p align="center" style="color:#00ffff; font-weight:bold; font-family: 'Courier New', monospace;">
   Cybersecurity | Ethical Hacker | CTF Overlord
 </p>
@@ -67,16 +97,14 @@ TOOLS:    nmap | curl | metasploit | ghidra | john
 
 ---
 
-<div align="center" style="border: 2px solid #ff00ff; padding: 15px; border-radius: 12px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.5);">
-  <pre style="color:#ff00ff; font-family: 'Courier New', monospace; font-size:13px;">
-> SYSTEM STATUS: CATACLISM OVERPOWER DESTROYER MODE ⚡🔥
-> LAST EXPLOIT: Box pwned with curl + echo 😎
-> MATRIX MODE: ACTIVE 🌐
-> ALERTS: ALL NETWORKS UNDER REAPER CONTROL 👁️💀
-> REMOTE OPS LOGS: /home/reaperkoji/ops
-> EXECUTING: stealth recon, LFI bypass & kernel injection 🚀
-> WARNING: DARK NET WATCHING YOUR MOVE
+<div align="center" style="border: 2px solid #00ffff; padding: 15px; border-radius: 12px; max-width: 540px; margin: 20px auto; background-color: rgba(0,0,0,0.45);">
+  <pre style="color:#39ff14; font-family: 'Courier New', monospace; font-size:12px;">
+Skills Progress:
+Python 🐍██████████ 100%
+Bash 🐚████████ 80%
+Rust 🦀███ 30%
+AI for Cybersec 🤖████ 50%
+Linux 🖥️████████ 90%
+Web Exploits 💀██████ 70%
   </pre>
-  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="200" alt="matrix" style="border-radius: 12px; margin-top:10px;" />
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" alt="hacker fun" style="border-radius: 12px; margin-top:10px;" />
 </div>
