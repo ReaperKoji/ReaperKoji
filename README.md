@@ -187,9 +187,11 @@ Confira meus write-ups detalhados sobre:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ReaperKoji-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ReaperKoji)
-[![Gmail](https://img.shields.io/badge/Gmail-g3ars23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g3ars23@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@ReaperKoji-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reaperkoji)
+[![Instagram](https://img.shields.io/badge/Instagram-@reaperkoji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reaperkoji)
+[![YouTube](https://img.shields.io/badge/YouTube-@reaperkoji-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@reaperkoji)
 [![GitHub](https://img.shields.io/badge/GitHub-ReaperKoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReaperKoji)
+[![Gmail](https://img.shields.io/badge/Gmail-g3ars23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g3ars23@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-reaperkoji.github.io-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://reaperkoji.github.io/)
 
 </div>
