@@ -10,8 +10,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/reaperkoji.png" width="250" style="border-radius: 10px;"/>
 
-[**Blog**](https://reaperkoji.github.io/) • [**Twitter**](https://twitter.com/ReaperKoji) • [**Email**](mailto:g3ars23@gmail.com)
-
 ---
 
 </div>
@@ -77,6 +75,8 @@
 🐧 Sistemas:    Linux, Windows, WSL, Docker
 ```
 
+</details>
+
 ---
 
 ## 📦 Projetos em Destaque
@@ -113,6 +113,7 @@ recon.export_report()
 </td>
 </tr>
 </table>
+
 ### 📌 Outros Projetos
 
 | Projeto | Descrição | Status |
