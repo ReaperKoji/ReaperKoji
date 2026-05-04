@@ -75,8 +75,6 @@
 🐧 Sistemas:    Linux, Windows, WSL, Docker
 ```
 
-</details>
-
 ---
 
 ## 📦 Projetos em Destaque
@@ -113,7 +111,6 @@ recon.export_report()
 </td>
 </tr>
 </table>
-
 ### 📌 Outros Projetos
 
 | Projeto | Descrição | Status |
